@@ -1,2 +1,2 @@
-# formation_cpu-gpu
-Meilleures pratiques CPU -> GPU
+# Meilleures pratiques CPU -> GPU
+
